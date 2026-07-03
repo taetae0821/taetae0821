@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22c55e&height=200&section=header&text=Hi%20There%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20taetae0821&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22c55e&height=200&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=taetae0821%20%EC%9E%85%EB%8B%88%EB%8B%A4&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Technical+Support+Engineer+%40+Dell;Backend+%2F+Full-Stack+Developer;Building+AI-powered+web+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Dell%20%EA%B8%B0%EC%88%A0%EC%A7%80%EC%9B%90%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4;%EB%B0%B1%EC%97%94%EB%93%9C%20/%20%ED%92%80%EC%8A%A4%ED%83%9D%20%EA%B0%9C%EB%B0%9C%EC%9E%90;AI%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C%20%EC%A4%91" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### About Me
+### 자기소개
 
-- Technical Support Engineer at **Dell Technologies** (Enterprise Storage / PowerStore)
-- Computer Information & Communications, **Kyung Hee Cyber University**
-- Currently building **AI-powered web services**
-- Based in Cork, Ireland — interested in Korean & Japanese tech markets
+- **Dell Technologies** 기술지원 엔지니어 (엔터프라이즈 스토리지 / PowerStore)
+- **경희사이버대학교** 컴퓨터정보통신학과 재학
+- **AI 기반 웹 서비스** 개발 중
+- 아일랜드 코크(Cork) 거주 — 한국·일본 IT 시장에 관심
 
 ---
 
-### Tech Stack
+### 기술 스택
 
-**🎨 Frontend**
+**🎨 프론트엔드**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
-**⚙️ Backend**
+**⚙️ 백엔드**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -35,12 +35,12 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 </p>
 
-**🗄️ Database**
+**🗄️ 데이터베이스**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**🧰 Tools**
+**🧰 툴**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
@@ -49,59 +49,17 @@
 
 ---
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**CineBook**
-Full-stack movie ticket booking platform with an admin management system.
-- `Node.js` `MySQL`
-- Session-based auth, schema design, admin dashboard
-- Iteratively debugged real-world issues: schema mismatches, session handling
-
-</td>
-<td width="50%">
-
-**YouTube → MP3 Converter**
-Web app to extract and download audio from YouTube, with sponsor-segment skipping.
-- `Python` `yt-dlp` `ffmpeg` `SponsorBlock API`
-- Dark industrial UI, hardened for production/security
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Local Secondhand Marketplace (Flutter)**
-Mobile marketplace app concept for local secondhand trading, built as a 2-week sprint project.
-- `Flutter` `Dart`
-- Routing/navigation architecture, UI/UX design
-
-</td>
-<td width="50%">
-
-**Data Structures Study Suite**
-JavaScript implementations of core data structures with an accompanying quiz set, used for exam prep.
-- `JavaScript`
-- Stack, Queue, Tree, Graph implementations from scratch
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🐾 GitAnimals
 
 <p align="center">
-  <img src="https://render.gitanimals.org/graphs/taetae0821" width="100%"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=taetae0821&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/taetae0821" width="600" height="300"/>
+</a>
 </p>
 
 ---
 
-### 📈 Summary
+### 📈 요약
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taetae0821&theme=github_dark" width="45%"/>
@@ -110,7 +68,7 @@ JavaScript implementations of core data structures with an accompanying quiz set
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub 통계
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taetae0821&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -123,11 +81,11 @@ JavaScript implementations of core data structures with an accompanying quiz set
 
 ---
 
-### Contact
+### 연락처
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://velog.io/@YOUR_ID"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://instagram.com/itaeyul160"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://velog.io/taetae0821"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:6366f1&height=100&section=footer" width="100%"/>
