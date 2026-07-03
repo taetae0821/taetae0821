@@ -101,6 +101,15 @@ JavaScript implementations of core data structures with an accompanying quiz set
 
 ---
 
+### 📈 Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taetae0821&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taetae0821&theme=github_dark" width="45%"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
