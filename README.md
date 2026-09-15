@@ -6,17 +6,6 @@
 
 </div>
 
----
-
-### 자기소개
-
-- **Dell Technologies** 기술지원 엔지니어 (엔터프라이즈 스토리지 / PowerStore)
-- **경희사이버대학교** 컴퓨터정보통신학과 재학
-- **AI 기반 웹 서비스** 개발 중
-- 아일랜드 코크(Cork) 거주 — 한국·일본 IT 시장에 관심
-
----
-
 ### 기술 스택
 
 **🎨 프론트엔드**
@@ -56,27 +45,3 @@
 <img src="https://render.gitanimals.org/farms/taetae0821?layout=compact" width="400" height="200"/>
 </a>
 </p>
-
----
-
-### 📊 GitHub 통계
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taetae0821&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taetae0821&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taetae0821&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-### 연락처
-
-<p align="center">
-  <a href="https://instagram.com/YOUR_ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://velog.io/@YOUR_ID"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:6366f1&height=100&section=footer" width="100%"/>
