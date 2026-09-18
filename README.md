@@ -1,7 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22c55e&height=200&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=taetae0821%20%EC%9E%85%EB%8B%88%EB%8B%A4&descAlignY=55&descSize=18" width="100%"/>
-</div>
 
 ### 기술 스택
 
