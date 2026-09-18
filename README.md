@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22c55e&height=200&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=taetae0821%20%EC%9E%85%EB%8B%88%EB%8B%A4&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%EA%BE%B8%EC%A4%80%ED%9E%88%20%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EC%A3%BC%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B8%B0%EC%88%A0%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4;%ED%95%A8%EA%BB%98%20%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EA%B3%A0%20%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
-
 </div>
 
 ### 기술 스택
