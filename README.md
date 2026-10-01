@@ -1,4 +1,4 @@
-### 💻 Tech Stack
+### 💻 기술스택
 
 **Frontend**
 
