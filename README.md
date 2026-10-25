@@ -3,7 +3,7 @@
 **Frontend**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,flutter" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,js,react,nextjs,flutter" height="45" />
 </div>
 
 <br>
