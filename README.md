@@ -11,7 +11,7 @@
 **Backend**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,python,java,c" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,java,c" height="45" />
 </div>
 
 <br>
